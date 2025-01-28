@@ -8,3 +8,8 @@ npx prisma generate
 npx prisma init
 npm i -D prisma @prisma/client
 ```
+
+```
+npx prisma generate
+npx prisma migrate dev --name add-cart
+```
