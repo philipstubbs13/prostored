@@ -2,6 +2,8 @@
 
 A modern and feature-rich e-commerce platform built with Next.js. ProStore is designed to deliver a seamless shopping experience with dynamic product displays, interactive features, and a responsive design.
 
+<img src="./screenshot.png">
+
 ## Features
 
 - **Product Carousel**: Showcases featured products in an interactive carousel.
